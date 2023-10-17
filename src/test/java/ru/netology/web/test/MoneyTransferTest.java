@@ -73,5 +73,5 @@ public class MoneyTransferTest {
         Assertions.assertEquals(firstCardInfo, actualBalanceFirstCard);
         Assertions.assertEquals(secondCardBalance, actualBalanceSecondCard);
     }
-    
+
 }
